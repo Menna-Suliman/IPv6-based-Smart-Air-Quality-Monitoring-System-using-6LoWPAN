@@ -1,0 +1,21 @@
+# Cooja / Contiki build files
+*.cooja
+*.sky
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# Logs
+*.log
+*.txt~
+*.bak
+
+# Wireshark large captures - keep only selected captures if needed
+*.pcap
+*.pcapng
+
+# OS files
+.DS_Store
+Thumbs.db
